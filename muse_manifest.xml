@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537461536216">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537461946293">
   <folder name="css">
     <file name="site_global.css" crc="4241657061"/>
     <file name="master_a-master.css" crc="524695903" ref="7:8:4:9:utilities:6:10:3:2:5:1"/>
-    <file name="index.css" crc="4212569293" ref="index"/>
+    <file name="index.css" crc="235703833" ref="index"/>
     <file name="7.css" crc="3982003985" ref="7"/>
     <file name="8.css" crc="3982003985" ref="8"/>
     <file name="pg2.css" crc="188517676" ref="pg2"/>
@@ -176,7 +176,7 @@
       <caption webpage="4" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4006668700" seo="true" mt="1537461525545" redirect="true"/>
+  <file name="index.html" crc="3763759469" seo="true" mt="1537461926533" redirect="true"/>
   <file name="utilities.html" crc="3776553338" seo="true" mt="1537461413309" redirect="true"/>
   <file name="pg2.html" crc="3931908912" seo="true" mt="1537460368629" redirect="true"/>
   <file name="1.html" crc="507852482" seo="true" mt="1537461413309" redirect="true"/>
