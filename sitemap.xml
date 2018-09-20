@@ -5,6 +5,12 @@
     <lastmod>2018-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/webpnet-resizeimage.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/webpnet-resizeimage%20(2).png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://appries.com/utilities.html</loc>
@@ -23,6 +29,12 @@
     <lastmod>2018-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/webpnet-resizeimage.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/webpnet-resizeimage%20(2).png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://appries.com/1.html</loc>
