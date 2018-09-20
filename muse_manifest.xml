@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537463550040">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537463708835">
   <folder name="css">
     <file name="site_global.css" crc="4241657061"/>
     <file name="master_a-master.css" crc="4011352500" ref="7:8:4:9:utilities:6:10:3:2:5:1"/>
-    <file name="index.css" crc="136094619" ref="index"/>
+    <file name="index.css" crc="55848506" ref="index"/>
     <file name="7.css" crc="4085363923" ref="7"/>
     <file name="8.css" crc="4085363923" ref="8"/>
-    <file name="pg2.css" crc="4128356986" ref="pg2"/>
+    <file name="pg2.css" crc="155455614" ref="pg2"/>
     <file name="4.css" crc="196781377" ref="4"/>
     <file name="9.css" crc="4085363923" ref="9"/>
     <file name="utilities.css" crc="4085363923" ref="utilities"/>
@@ -15,7 +15,7 @@
     <file name="2.css" crc="4124361608" ref="2"/>
     <file name="5.css" crc="4085363923" ref="5"/>
     <file name="1.css" crc="4122583742" ref="1"/>
-    <file name="master_b-master.css" crc="4236114518" ref="pg2:index"/>
+    <file name="master_b-master.css" crc="461854896" ref="pg2:index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:utilities:pg2:1:2:3:4:5:6:7:8:9:10"/>
@@ -176,9 +176,9 @@
       <caption webpage="4" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3879968118" seo="true" mt="1537463533719" redirect="true"/>
+  <file name="index.html" crc="481868258" seo="true" mt="1537463691091" redirect="true"/>
   <file name="utilities.html" crc="242566016" seo="true" mt="1537463516022" redirect="true"/>
-  <file name="pg2.html" crc="457029623" seo="true" mt="1537463533719" redirect="true"/>
+  <file name="pg2.html" crc="4183340094" seo="true" mt="1537463691091" redirect="true"/>
   <file name="1.html" crc="4186140770" seo="true" mt="1537463516022" redirect="true"/>
   <file name="2.html" crc="4221693972" seo="true" mt="1537463516022" redirect="true"/>
   <file name="3.html" crc="338134422" seo="true" mt="1537463516022" redirect="true"/>
