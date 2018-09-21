@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537488541206">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537491238628">
   <folder name="css">
     <file name="site_global.css" crc="4241657061"/>
-    <file name="master_a-master.css" crc="524695903" ref="7:8:4:9:utilities:6:10:3:2:5:1"/>
+    <file name="master_a-master.css" crc="3878631984" ref="7:8:4:9:utilities:6:10:3:2:5:1"/>
     <file name="index.css" crc="320640907" ref="index"/>
     <file name="7.css" crc="3998084868" ref="7"/>
     <file name="8.css" crc="3998084868" ref="8"/>
@@ -113,7 +113,7 @@
       <caption webpage="1" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="1:2:3:4"/>
-    <file name="c1-u2776.png" crc="416668779" ref="2"/>
+    <file name="c1-u2776.png" crc="127173740" ref="2"/>
     <file name="c2-u3297.png" crc="44544720" ref="2"/>
     <file name="c3-u3317.png" crc="469576610" ref="2"/>
     <file name="c4-u3337.png" crc="4070948171" ref="2"/>
@@ -175,16 +175,16 @@
     </file>
   </folder>
   <file name="index.html" crc="476715176" seo="true" mt="1537488524709" redirect="true"/>
-  <file name="utilities.html" crc="4094827114" seo="true" mt="1537488532905" redirect="true"/>
+  <file name="utilities.html" crc="525170874" seo="true" mt="1537491184941" redirect="true"/>
   <file name="pg2.html" crc="279772048" seo="true" mt="1537488513214" redirect="true"/>
-  <file name="1.html" crc="4110733143" seo="true" mt="1537488532905" redirect="true"/>
-  <file name="2.html" crc="4211745190" seo="true" mt="1537488532905" redirect="true"/>
-  <file name="3.html" crc="12391558" seo="true" mt="1537488532905" redirect="true"/>
-  <file name="4.html" crc="63805491" seo="true" mt="1537488532905" redirect="true"/>
-  <file name="5.html" crc="462084460" seo="true" mt="1537488532905" redirect="true"/>
-  <file name="6.html" crc="84343844" seo="true" mt="1537488532905" redirect="true"/>
-  <file name="7.html" crc="259858204" seo="true" mt="1537488532905" redirect="true"/>
-  <file name="8.html" crc="106079671" seo="true" mt="1537488532905" redirect="true"/>
-  <file name="9.html" crc="204031631" seo="true" mt="1537488532905" redirect="true"/>
-  <file name="10.html" crc="55308572" seo="true" mt="1537488532905" redirect="true"/>
+  <file name="1.html" crc="3823254248" seo="true" mt="1537491184941" redirect="true"/>
+  <file name="2.html" crc="291647324" seo="true" mt="1537491184941" redirect="true"/>
+  <file name="3.html" crc="3995280025" seo="true" mt="1537491184941" redirect="true"/>
+  <file name="4.html" crc="3915132279" seo="true" mt="1537491184941" redirect="true"/>
+  <file name="5.html" crc="245064135" seo="true" mt="1537491184941" redirect="true"/>
+  <file name="6.html" crc="3977328759" seo="true" mt="1537491184941" redirect="true"/>
+  <file name="7.html" crc="88601304" seo="true" mt="1537491184941" redirect="true"/>
+  <file name="8.html" crc="91735915" seo="true" mt="1537491184941" redirect="true"/>
+  <file name="9.html" crc="3978366404" seo="true" mt="1537491184941" redirect="true"/>
+  <file name="10.html" crc="435872144" seo="true" mt="1537491184941" redirect="true"/>
 </manifest>
