@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537466740018">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537488226131">
   <folder name="css">
     <file name="site_global.css" crc="4241657061"/>
     <file name="master_a-master.css" crc="524695903" ref="7:8:4:9:utilities:6:10:3:2:5:1"/>
-    <file name="index.css" crc="3887423297" ref="index"/>
+    <file name="index.css" crc="4265240935" ref="index"/>
     <file name="7.css" crc="3955753043" ref="7"/>
     <file name="8.css" crc="3955753043" ref="8"/>
-    <file name="pg2.css" crc="419386011" ref="pg2"/>
+    <file name="pg2.css" crc="322378944" ref="pg2"/>
     <file name="4.css" crc="123956919" ref="4"/>
     <file name="9.css" crc="3955753043" ref="9"/>
     <file name="utilities.css" crc="3955753043" ref="utilities"/>
@@ -76,10 +76,10 @@
     <file name="s-l300.jpg" crc="151999877" ref="pg2">
       <caption webpage="pg2" alt=""/>
     </file>
-    <file name="253732a.jpg" crc="46400710" ref="pg2">
+    <file name="253732a.jpg" crc="72868535" ref="pg2">
       <caption webpage="pg2" alt=""/>
     </file>
-    <file name="71fs7kcaaxl_sl1500_.jpg" crc="459245404" ref="pg2">
+    <file name="71fs7kcaaxl_sl1500_.jpg" crc="504457471" ref="pg2">
       <caption webpage="pg2" alt=""/>
     </file>
     <file name="kindle-voyage-on-the-table.jpg" crc="221601367" ref="pg2">
@@ -176,9 +176,9 @@
       <caption webpage="4" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4057259884" seo="true" mt="1537466666559" redirect="true"/>
+  <file name="index.html" crc="4161310966" seo="true" mt="1537488216110" redirect="true"/>
   <file name="utilities.html" crc="502436494" seo="true" mt="1537466725288" redirect="true"/>
-  <file name="pg2.html" crc="128260004" seo="true" mt="1537466606915" redirect="true"/>
+  <file name="pg2.html" crc="3962244321" seo="true" mt="1537488224988" redirect="true"/>
   <file name="1.html" crc="154865766" seo="true" mt="1537466725288" redirect="true"/>
   <file name="2.html" crc="4209115599" seo="true" mt="1537466725288" redirect="true"/>
   <file name="3.html" crc="373352385" seo="true" mt="1537466725288" redirect="true"/>
