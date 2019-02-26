@@ -1,8 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537663716270">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1551221832771">
+  <folder name="assets">
+    <file name="ezgif-4-7e956016cbfc.gif" crc="4046809289" seo="true" mt="1551221541000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4241657061"/>
+    <file name="site_global.css" crc="252793437"/>
     <file name="master_a-master.css" crc="3878631984" ref="7:8:4:9:utilities:6:10:3:2:5:1"/>
-    <file name="index.css" crc="320640907" ref="index"/>
+    <file name="index.css" crc="3998663720" ref="index"/>
     <file name="7.css" crc="3998084868" ref="7"/>
     <file name="8.css" crc="3998084868" ref="8"/>
     <file name="pg2.css" crc="522727844" ref="pg2"/>
@@ -15,7 +18,7 @@
     <file name="2.css" crc="451281024" ref="2"/>
     <file name="5.css" crc="3998084868" ref="5"/>
     <file name="1.css" crc="232770611" ref="1"/>
-    <file name="master_b-master.css" crc="203589883" ref="pg2:index"/>
+    <file name="master_b-master.css" crc="157917849" ref="pg2:index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:utilities:pg2:1:2:3:4:5:6:7:8:9:10"/>
@@ -55,8 +58,8 @@
       <caption webpage="10" alt=""/>
       <caption webpage="8" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="utilities" alt=""/>
       <caption webpage="pg2" alt=""/>
+      <caption webpage="utilities" alt=""/>
     </file>
     <file name="webpnet-resizeimage (2).png" crc="4014165106" seo="true" ref="utilities:1:2:3:4:5:6:7:8:9:10:index:pg2">
       <caption webpage="1" alt=""/>
@@ -70,8 +73,8 @@
       <caption webpage="10" alt=""/>
       <caption webpage="8" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="utilities" alt=""/>
       <caption webpage="pg2" alt=""/>
+      <caption webpage="utilities" alt=""/>
     </file>
     <file name="s-l300.jpg" crc="151999877" ref="pg2">
       <caption webpage="pg2" alt=""/>
@@ -85,7 +88,7 @@
     <file name="kindle-voyage-on-the-table.jpg" crc="221601367" ref="pg2">
       <caption webpage="pg2" alt=""/>
     </file>
-    <file name="image (1).jpg" crc="12548377" ref="index:1" seo="true">
+    <file name="image (1).jpg" crc="12548377" ref="index:1">
       <caption webpage="1" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -174,7 +177,7 @@
       <caption webpage="4" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="476715176" seo="true" mt="1537488524709" redirect="true"/>
+  <file name="index.html" crc="4060690725" seo="true" mt="1551221819085" redirect="true"/>
   <file name="utilities.html" crc="262584978" seo="true" mt="1537663691690" redirect="true"/>
   <file name="pg2.html" crc="279772048" seo="true" mt="1537488513214" redirect="true"/>
   <file name="1.html" crc="438064103" seo="true" mt="1537663691690" redirect="true"/>

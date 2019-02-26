@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://appries.com/index.html</loc>
-    <lastmod>2018-09-21</lastmod>
+    <lastmod>2019-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/webpnet-resizeimage.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/webpnet-resizeimage%20(2).png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/4.html</loc>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -12,7 +24,25 @@
       <image:loc>http://appries.com/images/webpnet-resizeimage%20(2).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://appries.com/images/image%20(1).jpg</image:loc>
+      <image:loc>http://appries.com/images/shree-krishna-krisna-260-perfect-1-original-imaf2y3bj9bgypud-crop-u3493.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/nb1-min.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/nb2-min-crop-u3654.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/nb3-min-crop-u3674.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/shree-krishna-krisna-260-perfect-1-original-imaf2y3bj9bgypud-crop-u3515.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/nb2-min-crop-u3660.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/nb3-min-crop-u3680.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -49,9 +79,6 @@
     </image:image>
     <image:image>
       <image:loc>http://appries.com/images/webpnet-resizeimage%20(2).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/image%20(1).jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://appries.com/images/image%20(2).jpg</image:loc>
@@ -127,7 +154,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://appries.com/4.html</loc>
+    <loc>http://appries.com/7.html</loc>
     <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -136,27 +163,6 @@
     </image:image>
     <image:image>
       <image:loc>http://appries.com/images/webpnet-resizeimage%20(2).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/shree-krishna-krisna-260-perfect-1-original-imaf2y3bj9bgypud-crop-u3493.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/nb1-min.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/nb2-min-crop-u3654.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/nb3-min-crop-u3674.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/shree-krishna-krisna-260-perfect-1-original-imaf2y3bj9bgypud-crop-u3515.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/nb2-min-crop-u3660.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/nb3-min-crop-u3680.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -184,7 +190,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://appries.com/7.html</loc>
+    <loc>http://appries.com/9.html</loc>
     <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -208,7 +214,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://appries.com/9.html</loc>
+    <loc>http://appries.com/10.html</loc>
     <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -220,15 +226,9 @@
     </image:image>
   </url>
   <url>
-    <loc>http://appries.com/10.html</loc>
-    <lastmod>2018-09-23</lastmod>
+    <loc>http://appries.com/assets/ezgif-4-7e956016cbfc.gif</loc>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://appries.com/images/webpnet-resizeimage.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/webpnet-resizeimage%20(2).png</image:loc>
-    </image:image>
   </url>
 </urlset>
